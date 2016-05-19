@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="hireitservicesresources.callndata.MainActivity"
+    android:background="@mipmap/main_bg"
+    android:orientation="vertical">
+
+<ImageView
+    android:layout_weight="0.3"
+    android:layout_width="wrap_content"
+    android:layout_height="0dp"
+    android:layout_gravity="center_horizontal"
+    android:src="@mipmap/logo"/>
+
+    <Button
+        android:id="@+id/btn_buyservice"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/buyservice"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+
+       />
+
+    <Button
+        android:id="@+id/btn_saas"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/saas"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+
+        />
+
+    <Button
+        android:id="@+id/btn_custom_solutions"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/custom_solutions"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"
+
+        />
+
+    <Button
+        android:id="@+id/btn_quickpay"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/quickpay"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_contactus"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/contactus"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btn_helpdesk"
+        android:layout_weight="0.1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#769CB2"
+        android:text="@string/helpdesk"
+        android:padding="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textAllCaps="false"/>
+
+    <TextView
+        android:layout_weight="0.1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp" />
+
+
+</LinearLayout>

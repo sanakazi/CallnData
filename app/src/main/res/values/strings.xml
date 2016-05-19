@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">CallnData</string>
+
+    <!-- activity_main.xml  -->
+
+    <string name="buyservice">Make My Team</string>
+    <string name="saas">SaaS Solutions</string>
+    <string name="custom_solutions">Custom Solutions</string>
+    <string name="quickpay">Quick Pay</string>
+    <string name="contactus">Contact Us</string>
+    <string name="helpdesk">Help Desk</string>
+
+    <!-- activity_quick_pay.xml  -->
+    <string name="txt_fullname">Full Name</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_amount">Amount (US$)</string>
+    <string name="btn_submit">Submit</string>
+    <string name="txt_quickpay"><b>Quick Pay</b></string>
+
+
+    <!-- activity_help_desk.xml  -->
+    <string name="ctxt_fullname">Full Name</string>
+    <string name="ctxt_email">Email</string>
+    <string name="ctxt_subject">Subject</string>
+    <string name="ctxt_msg">Message</string>
+    <string name="txt_helpdesk"><b>Help Desk</b></string>
+
+    <!-- activity_contact_info_.xml  -->
+    <string name="txt_contact_info"><b>Contact Info</b></string>
+    <string name="ci_india"><b>India</b></string>
+    <string name="ci_callndata"><b>CallnData Technologies</b></string>
+    <string name="ci_adrs1">303, Sheetal Enclave, Tangent House Lane,</string>
+    <string name="ci_adrs2">Next to Knox Plaza, Mind Space, </string>
+    <string name="ci_adrs3">Chincholi Bunder Road </string>
+    <string name="ci_adrs4">Malad(W), Mumbai-400064 </string>
+    <string name="ci_ph1"><u>+91-876 747 7454</u></string>
+    <string name="ci_ph2"><u>+91-22 3222 4450 </u></string>
+    <string name="ci_email1">info@CallnData.com </string>
+    <string name="ci_north_america"><b>North America</b></string>
+    <string name="ci_ph3"><u>+1 321 248 6126</u> </string>
+    <string name="ci_email2">na@CallnData.com </string>
+
+
+    <!-- activity_buy_service_details.xml  -->
+    <string name="txt_buy_service"><b>Make My Team</b></string>
+    <string name="bs_tech">Technology</string>
+    <string name="bs_exp">Experience</string>
+    <string name="bs_duration">Duration</string>
+    <string name="bs_name">Name</string>
+    <string name="bs_email">Email</string>
+    <string name="bs_phone">Phone</string>
+    <string name="bs_total">Total : </string>
+    <string name="bs_US">US$</string>
+    <string name="bs_hire">Hire</string>
+    <string name="bs_calculate">Calculate</string>
+
+
+    <string name="thanks"><b>Thanks !</b></string>
+
+
+    <!-- activity_saas_solutions_details.xml  -->
+    <string name="txt_saas_solutions"><b>SaaS Solutions</b></string>
+    <string name="ss_tech">Solutions</string>
+    <string name="ss_brief">Description</string>
+    <string name="ss_duration">Subscription Options</string>
+    <string name="ss_subscribe">Subscribe</string>
+
+    <!-- activity_custom_solutions_details.xml  -->
+    <string name="customize">Require Customization</string>
+
+
+</resources>
